@@ -87,7 +87,7 @@ public class vf1 extends JFrame {
 		txtNum.setColumns(10);
 		
 		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setBounds(39, 126, 358, 113);
+		scrollPane.setBounds(39, 126, 358, 112);
 		contentPane.add(scrollPane);
 		
 		JTextArea txtS = new JTextArea();
@@ -115,3 +115,4 @@ public class vf1 extends JFrame {
 
 	}
 }
+
